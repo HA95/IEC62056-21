@@ -1,10 +1,3 @@
-/*
- * Tariff.c
- *
- * Created: 8/21/2019 10:12:13 PM
- * Author : Armin
- */ 
-
 void Read_Request_massage();
 unsigned char Selected_mode(unsigned char temp);
 void Send_Identity_massage(unsigned char mode);
