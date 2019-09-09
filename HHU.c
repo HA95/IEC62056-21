@@ -1,11 +1,3 @@
-/*
- * HHU.c
- *
- * Created: 8/21/2019 6:42:41 PM
- * Author : Armin
- */ 
-
-
  void Send_Request_massage();
  unsigned char Read_Identity_massage();
  unsigned char Specify_mode(unsigned char temp);
